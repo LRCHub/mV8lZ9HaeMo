@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Ingleside",
+  "base_artist": "90sFlav",
+  "createdAt": "2026-03-18T05:22:56.048990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "65th & Ingleside",
+      "artist": "Chance the Rapper",
+      "has_synced": true,
+      "path": "select/01_65th_&_Ingleside_Chance_the_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "65th & Ingleside",
+      "artist": "Chance the Rapper",
+      "has_synced": true,
+      "path": "select/02_65th_&_Ingleside_Chance_the_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "65th & Ingleside",
+      "artist": "Chance the Rapper",
+      "has_synced": true,
+      "path": "select/03_65th_&_Ingleside_Chance_the_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "65th & Ingleside",
+      "artist": "Chance The Rapper",
+      "has_synced": true,
+      "path": "select/04_65th_&_Ingleside_Chance_The_Rapper.lrc"
+    }
+  ]
+}
